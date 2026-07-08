@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from prometheus_client import Counter, generate_latest, CONTENT_TYPE_LATEST
 from starlette.responses import Response
 
-EMAIL = "YOUR_EMAIL@example.com"
+EMAIL = "23f2005721@ds.study.iitm.ac.in"
 API_KEY = "ak_g9p1jlxvjoaqgpy9hcspmgtz"
 
 app = FastAPI()
